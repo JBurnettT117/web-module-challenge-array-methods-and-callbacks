@@ -6,7 +6,7 @@ const { fifaData } = require('./fifa.js')
 Practice accessing data by console.log-ing the following pieces of data note. 
 
 💡 HINT: You may want to filter the data first 😉*/
-
+console.log(fifaData.length)
 //(a) Home Team name for 2014 world cup final
 
 //(b) Away Team name for 2014 world cup final
